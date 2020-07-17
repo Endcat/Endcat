@@ -1,4 +1,6 @@
+<p align="center">
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png">
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/github/last-commit/Endcat/Endcat">
