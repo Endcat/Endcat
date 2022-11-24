@@ -2,6 +2,8 @@
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
 </p>
 
+---
+
 <img src="https://count.getloli.com/get/@Endcat?theme=asoul" alt="Endcat" align="right"/>
 
 - 🏫 Major in Cyber Security
