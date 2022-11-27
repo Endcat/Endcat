@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
+<img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" width="700px"/>
 </p>
 
 <img src="https://count.getloli.com/get/@Endcat?theme=asoul" alt="Endcat" align="right"/>
