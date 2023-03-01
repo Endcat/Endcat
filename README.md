@@ -4,7 +4,7 @@
 
 <img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/>
 
-🐈‍⬛ Miao~
+🐈‍⬛ Nya~
 - 🏫 Major in Cyber Security
 - 🐤 Always baby coder & trash maker
 - ⚔️ Former CTFer as a member of [::Team L::](https://l.xdsec.org/about.html)
