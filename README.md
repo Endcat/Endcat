@@ -2,8 +2,7 @@
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
 </p> -->
 
-<!-- <img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/> -->
-<img src="https://osu-sig.vercel.app/card?user=Endcat&mode=std&lang=en&animation=true&mini=true" align="right"/>
+<img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/>
 
 🐈‍⬛ Nya~
 - 🏫 Major in Cyber Security
@@ -12,3 +11,5 @@
 - 📬 Contact me at [endcat749@gmail.com](mailto:endcat749@gmail.com)
 
 ❄️ yuki means snow, kitajima means northern island. 🏝️
+
+<img src="https://osu-sig.vercel.app/card?user=Endcat&mode=std&lang=en&animation=true&mini=true" align="left"/>
