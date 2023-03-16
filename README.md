@@ -2,7 +2,8 @@
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
 </p> -->
 
-<img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/>
+<!-- <img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/> -->
+<img src="https://osu-sig.vercel.app/card?user=Endcat&mode=std&lang=en&animation=true&mini=true" align="right"/>
 
 🐈‍⬛ Nya~
 - 🏫 Major in Cyber Security
