@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
 </p> -->
 
-<img src="https://count.getloli.com/get/@Endcat?theme=asoul" align="right"/>
+<img src="https://moe-counter--nriver1.repl.co/get/@Endcat?theme=asoul" align="right"/>
 
 🐈‍⬛ Nya~
 - 🏫 Major in Cyber Security
