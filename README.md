@@ -11,5 +11,3 @@
 - 📬 Contact me at [endcat749@gmail.com](mailto:endcat749@gmail.com)
 
 ❄️ yuki means snow, kitajima means northern island. 🏝️
-
-<img src="https://osu-sig.vercel.app/card?user=Endcat&mode=std&lang=en&animation=true&mini=true" align="left"/>
