@@ -9,6 +9,6 @@ Nya~
 - Always baby coder & trash maker
 - Former CTFer as a member of [::Team L::](https://l.xdsec.org/about.html)
 - Contact me at [endcat749@gmail.com](mailto:endcat749@gmail.com)
-- Writing on [blog](https://mashiro.link)
+- Writing on [雪猫茶屋](https://mashiro.link)
 
 ❄️ yuki means snow, kitajima means northern island. 🏝️
