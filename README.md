@@ -1,8 +1,6 @@
-<!-- <p align="center">
+<p align="center">
 <img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
-</p> -->
-
-<img src="https://moe-counter--nriver1.repl.co/get/@Endcat?theme=asoul" align="right"/>
+</p>
 
 Nya~
 - Master student studying in cybersecurity.
