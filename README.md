@@ -3,7 +3,7 @@
 </p>-->
 Nya~
 - Master student -> [Security PRIDE](https://github.com/security-pride).
-- Focusing on eBPF / SecLLM / Binary.
+- Focusing on SecLLM / Binary.
 - Former CTFer as a member of [::Team L::](https://l.xdsec.org/about.html).
 - Contact me at [endcat749@gmail.com](mailto:endcat749@gmail.com).
 
