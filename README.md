@@ -1,9 +1,6 @@
-<!--<p align="center">
-<img src="https://raw.githubusercontent.com/Endcat/Endcat/master/banner.png" />
-</p>-->
 Nya~
 - Master student -> [Security PRIDE](https://github.com/security-pride).
-- Focusing on LLM for Security / Binary.
+- Focusing on LLM for Security / Binary / Provenance.
 - Former CTFer as a member of [::Team L::](https://l.xdsec.org/about.html).
 - Contact me at [endcat749@gmail.com](mailto:endcat749@gmail.com).
 
