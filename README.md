@@ -1,6 +1,6 @@
 Nya~
 - Master student -> [Security PRIDE](https://github.com/security-pride).
-- Focusing on SecLLM / Endpoint Detection / Binary.
+- Focusing on AI4Sec + Binary.
 - Former CTFer -> [::Team L::](https://l.xdsec.org/about.html).
 - Mailto [endcat749@gmail.com](mailto:endcat749@gmail.com).
 
